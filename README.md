@@ -17,9 +17,3 @@ This PHP application is designed for managing files within a MySQL database. It 
 - Composer
 - XAMPP or any similar local server environment
 
-## Installation
-
-1. **Clone the Repository**
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
